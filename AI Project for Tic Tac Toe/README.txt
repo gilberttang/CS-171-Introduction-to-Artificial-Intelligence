@@ -1,4 +1,4 @@
-AI for Tic Tac Toe
+CS 171 Project: AI for Tic Tac Toe
 
 Open ConnectK.jar to start the Tic Tac Toe game.
 Then click File > New > Add AI
