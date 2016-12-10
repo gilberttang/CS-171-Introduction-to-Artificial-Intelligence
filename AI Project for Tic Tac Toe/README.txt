@@ -1,6 +1,8 @@
-{\rtf1\ansi\ansicpg950\cocoartf1504\cocoasubrtf600
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;\csgray\c100000;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10380\viewh7200\viewkind0
-}
+AI for Tic Tac Toe
+
+Open ConnectK.jar to start the Tic Tac Toe game.
+Then click File > New > Add AI
+Choose an AI .class from the folder My AI Poor AI, Average AI, Good AI.
+YoungManAI.class is the one I developed.
+After choosing an AI, you can play with the AI or choose the other AI to start the match.
+
