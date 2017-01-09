@@ -1,5 +1,6 @@
 CS 171 Project: AI for Tic Tac Toe
 
+Programming Language: JAVA
 My part: src/YoungManAI.java
 
 Instruction: 
