@@ -1,5 +1,7 @@
 CS 171 Project: AI for Tic Tac Toe
 
+My part: src/YoungManAI.java
+
 Open ConnectK.jar to start the Tic Tac Toe game.
 Then click File > New > Add AI
 Choose an AI YoungManAI.class, PoorAI.class, AverageAI.class or GoodAI.class. from the folder: My AI Poor AI, Average AI, Good AI.
