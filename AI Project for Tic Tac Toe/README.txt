@@ -11,5 +11,7 @@ After choosing an AI, you can play with the AI or choose the other AI to start t
 
 **YoungManAI.class is the one I developed.
 
+"instruction(with pic).pdf" shows the project with instruction.
+
 
 
