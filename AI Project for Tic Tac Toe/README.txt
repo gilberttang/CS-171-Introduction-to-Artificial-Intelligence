@@ -10,8 +10,7 @@ Choose an AI YoungManAI.class, PoorAI.class, AverageAI.class or GoodAI.class. fr
 After choosing an AI, you can play with the AI or choose the other AI to start the match.
 
 **YoungManAI.class is the one I developed.
-
-"instruction(with pic).pdf" shows the project with instruction.
+**"instruction(with pic).pdf" shows the project with instruction.
 
 
 
